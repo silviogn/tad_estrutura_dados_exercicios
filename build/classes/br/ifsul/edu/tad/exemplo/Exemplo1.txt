@@ -1,0 +1,11 @@
+Problema: 
+
+1 - Crie uma classe em java que chamada Matematica. 
+
+2 - Crie um método para somar dois números e retornar o valor resultante. O método
+    não pode receber como parâmetros de entrada valores negativos. Caso isso 
+    ocorra retorne zero. 
+
+3 - Respeite os testes unitários do pacote 
+
+
